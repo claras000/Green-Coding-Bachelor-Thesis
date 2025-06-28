@@ -2,13 +2,13 @@
 
 Bachelor Thesis | University of Bremen | 2025
 
-Experimental setup to measure the resource, energy, and time consumption of frontend applications built with ReactJS, Vue, and VanillaJS.  
-The benchmark tests aim to evaluate the ecological sustainability of using JavaScript frameworks.
+Experimental setup to measure the resource, energy, and time consumption of frontend applications. The Experiment uses three examples: ReactJS, Vue, and VanillaJS.  
+The benchmark tests aim to evaluate the ecological sustainability of using JavaScript frameworks. 
 
 ## About the Experiment
 
-This experiment is part of the bachelor thesis "GREEN CODING" and measures the ecological sustainability of three identical synthetic web applications inside Docker environments.  
-The applications are structured to be directly measurable using the Green Metrics Tool by Green Coding Berlin.
+This experiment is part of the bachelor thesis "GREEN CODING" and measures the ecological sustainability of three identical, synthetic web applications. For this the Setup uses serveral Dockers to Isolate the components Frontend, Backend and Network for each test.
+The applications is a Setup for a measurement by the Green Metrics Tool from Green Coding Berlin.
 
 ## Measurement
 
