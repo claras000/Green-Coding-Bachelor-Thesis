@@ -1,0 +1,17 @@
+{
+  "name": "versuchsaufbauplainjs",
+  "version": "1.0.0",
+  "description": "docker build -t static-html .\r docker run -d -p 8080:80 static-html",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^6.0.7"
+  }
+}
